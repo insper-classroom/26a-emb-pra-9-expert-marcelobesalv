@@ -72,5 +72,4 @@ if (CMAKE_C_COMPILER_ID STREQUAL "GNU")
 endif()
 
 # Hardware-specific examples in subdirectories:
-add_subdirectory(ssd1306_lib)
 add_subdirectory(main)
